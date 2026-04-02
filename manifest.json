@@ -1,7 +1,7 @@
 {
-  "name": "Fotos de Cachorros",
-  "short_name": "DogPWA",
-  "start_url": "index.html",
+  "name": "app de cachorro",
+  "short_name": "appdog",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
